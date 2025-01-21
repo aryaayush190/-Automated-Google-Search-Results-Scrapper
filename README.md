@@ -1,1 +1,0 @@
-# -Automated-Google-Search-Results-Scrapper
